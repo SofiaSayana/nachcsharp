@@ -1,0 +1,15 @@
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\bin\Debug\net7.0\Ex001.exe
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\bin\Debug\net7.0\Ex001.deps.json
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\bin\Debug\net7.0\Ex001.runtimeconfig.json
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\bin\Debug\net7.0\Ex001.dll
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\bin\Debug\net7.0\Ex001.pdb
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.csproj.AssemblyReference.cache
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfoInputs.cache
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfo.cs
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.csproj.CoreCompileInputs.cache
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.dll
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\refint\Ex001.dll
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.pdb
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\Ex001.genruntimeconfig.cache
+D:\Sofia\Documents\Geekbrains\Digital master\1 trimestre\C#\repo\Examples\Ex001\obj\Debug\net7.0\ref\Ex001.dll
